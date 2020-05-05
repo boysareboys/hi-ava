@@ -2,4 +2,4 @@
 export default [
     { author: "By Niki indianto", quotes: "Semangat kerjanya" },
 
-  ,}
+,}
